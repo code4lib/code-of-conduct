@@ -8,6 +8,7 @@ Resources for policies/starting points:
 * [The Ada Initiative: Anti-harassment work](http://adainitiative.org/what-we-do/conference-policies/)
 * [Geek Feminism Wiki: example anti-harassment policy for conferences](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [howto hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
+* [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
 
 Open questions:
 
