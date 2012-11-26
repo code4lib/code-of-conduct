@@ -6,10 +6,12 @@ experience for everyone regardless of gender, sexual orientation,
 disability, physical appearance, body size, race, or religion. We do
 not tolerate harassment of event participants in any form. Sexual or
 discriminatory language and imagery is not appropriate for any event
-venue, including talks. Participants at any Code4Lib event -- or in
+venue, including talks. Reports of harrassment will be dealt with 
+immediately. Participants at any Code4Lib event -- or in
 any community channel, such as the chatroom or mailing list --
-violating these rules may be sanctioned, expelled, or banned at the
-discretion of the organizers or channel administrators.
+violating these rules will be dealt with appropriately, and may be 
+sanctioned, expelled, or banned at the discretion of the organizers
+or channel administrators.
 
 Harassment includes offensive verbal comments related to gender,
 sexual orientation, disability, physical appearance, body size, race,
