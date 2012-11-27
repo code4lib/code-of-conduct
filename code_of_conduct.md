@@ -9,7 +9,7 @@ discriminatory language and imagery is not appropriate for any event
 venue, including talks. Reports of harrassment will be addressed 
 immediately. Participants at any Code4Lib event -- or in
 any community channel, such as the chatroom or mailing list --
-violating these rules should expect to be  
+violating these rules should expect to be
 sanctioned, expelled, or banned at the discretion of the organizers
 or channel administrators.
 
