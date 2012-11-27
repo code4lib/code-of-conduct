@@ -60,7 +60,7 @@ If an incident occurs, please use the following contact information:
 
 * **Conference organizer:** [ORGANIZER NAME], [PHONE NUMBER]
 * **[CONFERENCE HOTEL NAME]:** [PHONE NUMBER]
-* **[MUNICIPALITY] Police Department: [PHONE NUMBER]
+* **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
 * **IRC channel administrators:** [IRC USERNAMES]
