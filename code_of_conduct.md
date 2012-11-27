@@ -39,7 +39,7 @@ Specific sanctions may include but are not limited to:
 reports will result in other sanctions
 * requiring that the harasser avoid any interaction with, and physical
 proximity to, their victim for the remainder of the event
-* ending a talk that violates the policy early
+* early termination of a talk that violates the policy
 * not publishing the video or slides of a talk that violated the policy
 * not allowing a speaker who violated the policy to give (further) talks
 at the event
