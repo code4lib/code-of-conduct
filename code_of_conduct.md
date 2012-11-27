@@ -15,12 +15,15 @@ violating these rules should expect to be
 sanctioned, expelled, or banned at the discretion of the organizers
 or channel administrators.
 
-Harassment includes offensive verbal comments or non-verbal expressions
-related to gender, sexual orientation, disability, physical appearance,
-body size, race, religion, sexual and or discriminatory images in public
-spaces, deliberate intimidation, stalking, following, harassing
-photography or recording, sustained disruption of talks or other events,
-inappropriate physical contact, and unwelcome sexual attention.
+Harassment is understood as *any* behavior that annoys, alarms, or
+threatens another person or group, or otherwise makes that person or
+group feel unsafe. It includes offensive verbal comments or non-verbal
+expressions related to gender, sexual orientation, disability, physical
+appearance, body size, race, religion, sexual and/or discriminatory images
+in public spaces (including online), deliberate intimidation, stalking,
+following, harassing photography or recording, sustained disruption of
+talks or other events, inappropriate physical contact, and unwelcome
+sexual attention.
 
 Participants asked to stop any harassing behavior are expected to
 comply immediately.
