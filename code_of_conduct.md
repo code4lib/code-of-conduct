@@ -31,6 +31,24 @@ someone else is being harassed, or have any other concerns, please
 contact a Code4Lib event organizer or channel administrator
 immediately.
 
+Specific sanctions may include but are not limited to:
+
+* warning the harasser to cease their behavior and that any further
+reports will result in other sanctions
+* requiring that the harasser avoid any interaction with, and physical
+proximity to, their victim for the remainder of the event
+* ending a talk that violates the policy early
+* not publishing the video or slides of a talk that violated the policy
+* not allowing a speaker who violated the policy to give (further) talks
+at the event
+* immediately ending any event volunteer responsibilities and privileges
+the harasser holds requiring that the harasser not volunteer for future
+Code4lib events (either indefinitely or for a certain time period)
+* requiring that the harasser immediately leave the event and not return
+* banning the harasser from future events (either indefinitely or for a
+certain time period)
+* publishing an account of the harassment
+
 Code4Lib event organizers can be identified by their name badges, and
 will help participants contact hotel/venue security or local law
 enforcement, provide escorts, or otherwise assist those experiencing
