@@ -18,7 +18,8 @@ or channel administrators.
 Harassment is understood as *any* behavior that threatens another
 person or group, or otherwise makes that person or group feel unsafe
 or uncomfortable, It includes offensive verbal comments or non-verbal
-expressions related to gender, sexual orientation, disability, physical
+expressions related to gender, gender identity, gender expression,
+sexual orientation, disability, physical
 appearance, body size, race, age, religion, sexual and/or discriminatory
 images in public spaces (including online), deliberate intimidation,
 stalking, following, harassing photography or recording, sustained
