@@ -56,6 +56,15 @@ will help participants contact hotel/venue security or local law
 enforcement, provide escorts, or otherwise assist those experiencing
 harassment to feel safe for the duration of the event.
 
+If an incident occurs, please use the following contact information:
+
+* **Conference organizer:** [ORGANIZER NAME], [PHONE NUMBER]
+* **[CONFERENCE HOTEL NAME]:** [PHONE NUMBER]
+* **[MUNICIPALITY] Police Department: [PHONE NUMBER]
+* **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
+* **[TAXI COMPANY NAME]:** [PHONE NUMBER]
+* **IRC channel administrators:** [IRC USERNAMES]
+
 We expect participants to follow these rules at all conference venues,
 conference-related social events, and community gatherings and
 channels (including the Code4Lib listserv and the #code4lib IRC
