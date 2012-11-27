@@ -1,6 +1,8 @@
 CodeOfConduct4Lib
 =================
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
 Code4Lib is dedicated to providing harassment-free community
 experience for everyone regardless of gender, sexual orientation,
 disability, physical appearance, body size, race, or religion. We do
@@ -60,3 +62,4 @@ channels (including the Code4Lib listserv and the #code4lib IRC
 channel).
 
 We value your participation in the Code4Lib community!
+

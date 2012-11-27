@@ -1,6 +1,8 @@
 Code4lib Anti-Harassment Policy
 ===============================
 
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
 This is a repository to provide a space to draft and allow for dialog in the creation of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference. 
 
 Resources for policies/starting points:
@@ -9,7 +11,7 @@ Resources for policies/starting points:
 * [Geek Feminism Wiki: example anti-harassment policy for conferences](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [howto hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
 * [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
-* [AAI Anti-harassment policy] (http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
+* [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
 
 Open questions:
 
