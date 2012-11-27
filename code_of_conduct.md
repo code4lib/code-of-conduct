@@ -13,11 +13,11 @@ violating these rules should expect to be
 sanctioned, expelled, or banned at the discretion of the organizers
 or channel administrators.
 
-Harassment includes offensive verbal comments or non-verbal expressions related to gender,
-sexual orientation, disability, physical appearance, body size, race,
-religion, sexual and or discriminatory images in public spaces,
-deliberate intimidation, stalking, following, harassing photography or
-recording, sustained disruption of talks or other events,
+Harassment includes offensive verbal comments or non-verbal expressions
+related to gender, sexual orientation, disability, physical appearance,
+body size, race, religion, sexual and or discriminatory images in public
+spaces, deliberate intimidation, stalking, following, harassing
+photography or recording, sustained disruption of talks or other events,
 inappropriate physical contact, and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to
