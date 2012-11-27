@@ -5,8 +5,8 @@ CodeOfConduct4Lib
 
 Code4Lib is dedicated to providing a harassment-free community
 experience for everyone regardless of gender, sexual orientation,
-disability, physical appearance, body size, race, or religion. We do
-not tolerate harassment of event participants in any form. Sexual or
+disability, physical appearance, body size, race, age, or religion. We
+do not tolerate harassment of event participants in any form. Sexual or
 discriminatory language and imagery is not appropriate for any event
 venue, including talks. Reports of harrassment will be addressed 
 immediately. Participants at any Code4Lib event -- or in
@@ -15,15 +15,15 @@ violating these rules should expect to be
 sanctioned, expelled, or banned at the discretion of the organizers
 or channel administrators.
 
-Harassment is understood as *any* behavior that annoys, alarms, or
-threatens another person or group, or otherwise makes that person or
-group feel unsafe. It includes offensive verbal comments or non-verbal
+Harassment is understood as *any* behavior that threatens another
+person or group, or otherwise makes that person or group feel unsafe
+or uncomfortable, It includes offensive verbal comments or non-verbal
 expressions related to gender, sexual orientation, disability, physical
-appearance, body size, race, religion, sexual and/or discriminatory images
-in public spaces (including online), deliberate intimidation, stalking,
-following, harassing photography or recording, sustained disruption of
-talks or other events, inappropriate physical contact, and unwelcome
-sexual attention.
+appearance, body size, race, age, religion, sexual and/or discriminatory
+images in public spaces (including online), deliberate intimidation,
+stalking, following, harassing photography or recording, sustained
+disruption of talks or other events, inappropriate physical contact, and 
+unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to
 comply immediately.
