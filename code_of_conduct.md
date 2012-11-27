@@ -3,7 +3,7 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Code4Lib is dedicated to providing harassment-free community
+Code4Lib is dedicated to providing a harassment-free community
 experience for everyone regardless of gender, sexual orientation,
 disability, physical appearance, body size, race, or religion. We do
 not tolerate harassment of event participants in any form. Sexual or
