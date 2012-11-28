@@ -12,8 +12,7 @@ expect to be sanctioned, expelled, or banned at the discretion of the
 organizers or channel administrators or volunteers. Reports of harassment will
 be addressed immediately.
 
-Harassment is understood as *any* behavior that threatens another person or
-group, or otherwise makes that person or group feel unsafe or uncomfortable,
+Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
 gender, gender identity, gender expression, sexual orientation, disability,
 physical appearance, body size, race, age, religion, sexual and/or
