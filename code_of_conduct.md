@@ -72,7 +72,7 @@ conference-related social events, and community gatherings and channels
 We value your participation in the Code4Lib community, and your efforts to
 keep Code4Lib a safe and friendly space for all participants!
 
-*This anti-harassment policy is based on the
+* Based on the
 [example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
 from the [Geek Feminism wiki](http://geekfeminism.wikia.com/), created by the
 Ada Initiative and other volunteers.*
