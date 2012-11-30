@@ -1,8 +1,6 @@
 Code4lib Anti-Harassment Policy
 ===============================
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
-
 This is a repository to provide a space to draft and allow for dialog in the creation of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference. 
 
 Resources for policies/starting points:
@@ -13,7 +11,23 @@ Resources for policies/starting points:
 * [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
 * [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
 
-Open questions:
+## Open questions
 
 * How do we cover not only the conference/IRL interactions, but IRC, etc. too?
 * Do we require a [duty officer](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Duty_officer) explicitly? Is it fair/reasonable/workable to have conference staff be in that role?
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
+
+## Contribute
+
+1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy
+1. Clone your fork locally (`git clone
+git@github.com:your-username/antiharassment-policy.git my-antiharassment-policy`)
+1. Create a branch to hold your changes (`git checkout -b my-changes`)
+1. Commit the changes you've made (`git commit -am "Some descriptive text around
+what you've added"`)
+1. Push your branch to github (`git push origin my-changes`)
+1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/pull/new/master
+
