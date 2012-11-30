@@ -3,9 +3,10 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Code4Lib is dedicated to providing a harassment-free community experience for
-everyone. We do not tolerate harassment in any form. Discriminatory
-language and imagery (including sexual) is not appropriate for any event venue, including talks,
+Code4Lib seeks to provide a welcoming, fun, and safe community and
+conference experience and ongoing Community for everyone. We do not
+tolerate harassment in any form. Discriminatory language and imagery
+(including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list. Participants at
 any Code4Lib event or in any community channel violating these rules should
 expect to be sanctioned, expelled, or banned at the discretion of the
