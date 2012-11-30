@@ -31,3 +31,5 @@ what you've added"`)
 1. Push your branch to github (`git push origin my-changes`)
 1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/pull/new/master
 
+Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
+
