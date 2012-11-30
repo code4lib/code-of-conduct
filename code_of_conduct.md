@@ -3,14 +3,18 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Code4Lib is dedicated to providing a harassment-free community experience for
-everyone. We do not tolerate harassment in any form. Discriminatory
-language and imagery (including sexual) is not appropriate for any event venue, including talks,
+Code4Lib seeks to provide a welcoming, fun, and safe community and
+conference experience and ongoing Community for everyone. We do not
+tolerate harassment in any form. Discriminatory language and imagery
+(including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list. Participants at
 any Code4Lib event or in any community channel violating these rules should
 expect to be sanctioned, expelled, or banned at the discretion of the
 organizers or channel administrators or volunteers. Reports of harassment will
-be addressed immediately.
+be addressed immediately. If you are being harassed, notice that someone
+else is being harassed, or have any other concerns, please *speak up* and/or
+contact an event organizer, volunteer, or a "Code4lib helper" in person
+(if at an event) or over IRC immediately.
 
 Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
@@ -23,13 +27,9 @@ and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately.
-
 If a participant engages in harassing behavior, organizers may take any action
 they deem appropriate, including warning the offender, expulsion from the
-Code4Lib event, or banning the offender from a chatroom or mailing list. If
-you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a Code4Lib event organizer or channel
-administrator or volunteer immediately.
+Code4Lib event, or banning the offender from a chatroom or mailing list.
 
 Specific sanctions may include but are not limited to:
 
