@@ -20,7 +20,22 @@ Resources for policies/starting points:
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
+## Discuss
+
+Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
+
 ## Contribute
+
+### Using Github (doesn't require knowing Git)
+
+1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy (click the "Fork" button in the upright corner of the page)
+1. Click the link for one of the files (e.g. `code_of_conduct.md`)
+1. Click the Edit button
+1. Add a commit summary and (optionally) and extended description
+1. Click the Commit Changes button
+1. Create a pull request by clicking the Pull Request button at the top of the page
+
+### Using Git
 
 1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy
 1. Clone your fork locally (`git clone
@@ -30,6 +45,3 @@ git@github.com:your-username/antiharassment-policy.git my-antiharassment-policy`
 what you've added"`)
 1. Push your branch to github (`git push origin my-changes`)
 1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/pull/new/master
-
-Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
-
