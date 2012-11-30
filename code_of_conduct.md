@@ -11,7 +11,9 @@ or any community channel such as the chatroom or mailing list. Participants at
 any Code4Lib event or in any community channel violating these rules should
 expect to be sanctioned, expelled, or banned at the discretion of the
 organizers or channel administrators or volunteers. Reports of harassment will
-be addressed immediately.
+be addressed immediately. If you are being harassed, notice that someone
+else is being harassed, or have any other concerns, please *speak up* and/or
+contact an event organizer or a "Code4lib helper" in IRC immediately.
 
 Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
