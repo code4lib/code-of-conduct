@@ -31,7 +31,7 @@ Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/
 1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy (click the "Fork" button in the upright corner of the page)
 1. Click the link for one of the files (e.g. `code_of_conduct.md`)
 1. Click the Edit button
-1. Add a commit summary and (optionally) and extended description
+1. Add a commit summary and (optionally) an extended description
 1. Click the Commit Changes button
 1. Create a pull request by clicking the Pull Request button at the top of the page
 
