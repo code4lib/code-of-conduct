@@ -4,8 +4,8 @@ CodeOfConduct4Lib
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
 Code4Lib is dedicated to providing a harassment-free community experience for
-everyone. We do not tolerate harassment in any form. Sexual or discriminatory
-language and imagery is not appropriate for any event venue, including talks,
+everyone. We do not tolerate harassment in any form. Discriminatory
+language and imagery (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list. Participants at
 any Code4Lib event or in any community channel violating these rules should
 expect to be sanctioned, expelled, or banned at the discretion of the
@@ -15,7 +15,7 @@ be addressed immediately.
 Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
 gender, gender identity, gender expression, sexual orientation, disability,
-physical appearance, body size, race, age, religion, sexual and/or
+physical appearance, body size, race, age, religious beliefs, sexual or
 discriminatory images in public spaces (including online), deliberate
 intimidation, stalking, following, harassing photography or recording,
 sustained disruption of talks or other events, inappropriate physical contact,
