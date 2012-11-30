@@ -13,7 +13,8 @@ expect to be sanctioned, expelled, or banned at the discretion of the
 organizers or channel administrators or volunteers. Reports of harassment will
 be addressed immediately. If you are being harassed, notice that someone
 else is being harassed, or have any other concerns, please *speak up* and/or
-contact an event organizer or a "Code4lib helper" in IRC immediately.
+contact an event organizer, volunteer, or a "Code4lib helper" in person
+(if at an event) or over IRC immediately.
 
 Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
@@ -26,13 +27,9 @@ and unwelcome sexual attention.
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately.
-
 If a participant engages in harassing behavior, organizers may take any action
 they deem appropriate, including warning the offender, expulsion from the
-Code4Lib event, or banning the offender from a chatroom or mailing list. If
-you are being harassed, notice that someone else is being harassed, or have
-any other concerns, please contact a Code4Lib event organizer or channel
-administrator or volunteer immediately.
+Code4Lib event, or banning the offender from a chatroom or mailing list.
 
 Specific sanctions may include but are not limited to:
 
