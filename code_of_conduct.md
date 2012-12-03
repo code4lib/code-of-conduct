@@ -66,8 +66,7 @@ If an incident occurs, please use the following contact information:
     `@helpers`?)
 
 We expect participants to follow these rules at all conference venues,
-conference-related social events, and community gatherings and channels
-(including the Code4Lib listserv, [Code4Lib subreddit](http://reddit.com/r/code4lib) and the #code4lib IRC channel).
+conference-related social events, community gatherings, and online communication channels.
 
 We value your participation in the Code4Lib community, and your efforts to
 keep Code4Lib a safe and friendly space for all participants!
