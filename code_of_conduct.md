@@ -3,20 +3,20 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
-Code4Lib seeks to provide a welcoming, fun, and safe community and
+Code4Lib seeks to provide a welcoming, professionally engaging, fun, and safe
 conference experience and ongoing Community for everyone. We do not
 tolerate discrimination or harassment in any form. Discriminatory language and imagery is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list. Any community member can and 
 should speak up when conduct or expression creates an uncomfortable environment for that member. 
 
 
-Reports of harrassment
+Reports of harrassment will
 be addressed immediately. If you are being harassed, notice that someone
 else is being harassed, or have any other concerns, please *speak up* and/or
 contact an event organizer, volunteer, or a "Code4lib helper" in person
 (if at an event) or over IRC immediately.
 
-Harassment is understood as any behavior that threatens another person or group, or produces an unsafe environment.
+Harassment is understood as any behavior that demeans another person or group, or produces an unsafe environment.
 It includes offensive verbal comments or non-verbal expressions related to
 gender, gender identity, gender expression, sexual orientation, disability,
 physical appearance, body size, race, age, religious or political beliefs; sexual or
