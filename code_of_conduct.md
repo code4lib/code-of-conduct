@@ -9,6 +9,10 @@ tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
 
+To help create an accessible and welcoming space when attending an in person 
+event we request that you refrain from wearing any perfume, colone or other
+strong sented substances that might trigger an alergic reaction.
+
 Harassment is understood as any behavior that threatens another person or
 group, or produces an unsafe environment.  It includes offensive verbal
 comments or non-verbal expressions related to gender, gender identity,
