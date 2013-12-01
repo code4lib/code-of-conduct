@@ -3,6 +3,8 @@ CodeOfConduct4Lib
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 
+Short link: <http://bit.ly/coc4lib>
+
 Code4Lib seeks to provide a welcoming, fun, and safe community and
 conference experience and ongoing community for everyone. We do not
 tolerate harassment in any form. Discriminatory language and imagery
