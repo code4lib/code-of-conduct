@@ -37,7 +37,7 @@ attention.
     actively harassing you, then you will need a third party to step in.
 
     If you are at a conference or other event, find the event organizer or
-    staff person, who should be listed [on the wiki](https://github.com/code4lib/antiharassment-policy).
+    staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
     If you can't find the event organizer, there will be other staff 
     available to help if the situation calls for immediate action.
 
