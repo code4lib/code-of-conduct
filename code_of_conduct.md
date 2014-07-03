@@ -55,7 +55,7 @@ attention.
     in the channel at most times.
 
     For the listserv, you have a free-for-all for public messages; however,
-    the listserv does have a maintainer, Eric Lease Morgan.
+    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).
 
 3. Wider community response to Incident:
 
