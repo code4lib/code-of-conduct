@@ -37,9 +37,9 @@ attention.
     actively harassing you, then you will need a third party to step in.
 
     If you are at a conference or other event, find the event organizer or
-    staff person. For #c4l13, that would be Francis Kayiwa. If you can't find 
-    the event organizer, there will be other staff available to help if the
-    situation calls for immediate action.
+    staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
+    If you can't find the event organizer, there will be other staff 
+    available to help if the situation calls for immediate action.
 
     If you are in the #code4lib IRC, the zoia command to list people
     designated as channel helpers is @helpers . I'd assume that there is
