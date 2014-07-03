@@ -51,8 +51,8 @@ attention.
     situation calls for immediate action.
 
     If you are in the #code4lib IRC, the zoia command to list people
-    designated as channel helpers is @helpers . I'd assume that there is
-    at least one helper in the channel at most times.
+    designated as channel helpers is @helpers . There is at least one helper 
+    in the channel at most times.
 
     For the listserv, you have a free-for-all for public messages; however,
     the listserv does have a maintainer, Eric Lease Morgan.
