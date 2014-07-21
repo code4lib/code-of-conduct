@@ -26,15 +26,24 @@ attention.
 1. Initial Incident
 
     If you are being harassed, notice that someone else is being harassed,
-    or have any other concerns, please inform the offender that he/she has
-    affected you negatively. Oftentimes, the offending behavior is
-    unintentional, and the accidental offender and offended will resolve the
-    incident by having that initial discussion.
+    or have any other concerns, __and you feel comfortable speaking with
+    the offender__, please inform the offender that he/she has affected you 
+    negatively. Oftentimes, the offending behavior is unintentional, and the 
+    accidental offender and offended will resolve the incident by having 
+    that initial discussion.
+    
+    Code4Lib recognizes that there are many reasons speaking directly to
+    the offender may not be workable for you (including but not limited to
+    unfamiliarity with the conference or its participants, lack of spoons,
+    and concerns for personal safety). If you don't feel comfortable 
+    speaking directly with the offender for any reason, skip straight to 
+    step 2.
 
 2. Escalation 
 
-    If the offender insists that he/she did not offend, or if offender is
-    actively harassing you, then you will need a third party to step in.
+    If the offender insists that he/she did not offend, if offender is
+    actively harassing you, or if direct engagement is not a good option
+    for you at this time, then you will need a third party to step in.
 
     If you are at a conference or other event, find the event organizer or
     staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
@@ -42,11 +51,11 @@ attention.
     available to help if the situation calls for immediate action.
 
     If you are in the #code4lib IRC, the zoia command to list people
-    designated as channel helpers is @helpers . I'd assume that there is
-    at least one helper in the channel at most times.
+    designated as channel helpers is @helpers . There is at least one helper 
+    in the channel at most times.
 
     For the listserv, you have a free-for-all for public messages; however,
-    the listserv does have a maintainer, Eric Lease Morgan.
+    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).
 
 3. Wider community response to Incident:
 
