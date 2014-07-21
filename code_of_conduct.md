@@ -34,7 +34,7 @@ attention.
     
     Code4Lib recognizes that there are many reasons speaking directly to
     the offender may not be workable for you (including but not limited to
-    unfamiliarity with the conference or its participants, lack of spoons,
+    unfamiliarity with the conference or its participants, [lack of spoons](http://www.butyoudontlooksick.com/wpress/articles/written-by-christine/the-spoon-theory/),
     and concerns for personal safety). If you don't feel comfortable 
     speaking directly with the offender for any reason, skip straight to 
     step 2.
