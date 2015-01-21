@@ -27,7 +27,7 @@ attention.
 
     If you are being harassed, notice that someone else is being harassed,
     or have any other concerns, __and you feel comfortable speaking with
-    the offender__, please inform the offender that he/she has affected you 
+    the offender__, please inform the offender that he/she/ze has affected you 
     negatively. Oftentimes, the offending behavior is unintentional, and the 
     accidental offender and offended will resolve the incident by having 
     that initial discussion.
@@ -41,7 +41,7 @@ attention.
 
 2. Escalation 
 
-    If the offender insists that he/she did not offend, if offender is
+    If the offender insists that he/she/ze did not offend, if offender is
     actively harassing you, or if direct engagement is not a good option
     for you at this time, then you will need a third party to step in.
 
@@ -76,11 +76,10 @@ attention.
 
     In Real Life people will have opinions about how the CoC is enforced.
     People will argue that a particular decision was unfair, and others will
-    say that it didn't go far enough. We really can't stop people having
+    say that it didn't go far enough. We can't stop people having
     opinions, but what we could do here is have constructive discussions
     that lead to something tangible (affirmation of decision, change in CoC,
-    modify decision, etc,), instead of reproducing the comments section of a
-    story on a news site.
+    modify decision, etc,).
 
 ## Sanctions
 
