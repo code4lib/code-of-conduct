@@ -5,21 +5,20 @@ CodeOfConduct4Lib
 
 Short link: <http://bit.ly/coc4lib>
 
-Code4Lib seeks to provide a welcoming, fun, and safe community and
-conference experience and ongoing community for everyone. We do not
-tolerate harassment in any form. Discriminatory language and imagery
+Code4Lib seeks to provide a welcoming, professionally engaging, fun, and
+safe conference experience and ongoing community for everyone. We do not tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
 
-Harassment is understood as any behavior that threatens another person or
+Harassment is understood as any behavior that demeans another person or
 group, or produces an unsafe environment.  It includes offensive verbal
 comments or non-verbal expressions related to gender, gender identity,
 gender expression, sexual orientation, disability, physical appearance,
-body size, race, age, religious beliefs, sexual or discriminatory images
-in public spaces (including online), deliberate intimidation, stalking,
-following, harassing photography or recording, sustained disruption of 
-talks or other events, inappropriate physical contact, and unwelcome sexual
-attention.
+body size, race, age, religious or political beliefs; sexual or
+discriminatory images in public spaces (including online); deliberate
+intimidation, stalking, following, harassing photography or recording;
+sustained disruption of talks or other events, inappropriate physical
+contact, and unwelcome sexual attention.
 
 ## Conflict Resolution
 
@@ -113,21 +112,20 @@ provide escorts, or otherwise assist those experiencing harassment to feel
 safe for the duration of the event. Code4Lib IRC volunteers can be identified
 by issuing the `@helpers` command to the #code4lib bot named "zoia".
 
-If an incident occurs, please use the following contact information:
+In the case of organized events, those responsible for the event should have readily available the following information:
 
 * **Conference organizer:** [ORGANIZER NAME], [PHONE NUMBER]
 * **[CONFERENCE HOTEL NAME]:** [PHONE NUMBER]
 * **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
-* **IRC channel administrators:** [IRC USERNAMES] (TODO: reference to
-    `@helpers`?)
+* **IRC channel administrators:** [IRC USERNAMES]
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
 
-We value your participation in the Code4Lib community, and your efforts to
-keep Code4Lib a safe and friendly space for all participants!
+We value everyone's participation in the Code4Lib community, and will all
+work to keep Code4Lib a safe and friendly space for all participants!
 
 *Based on the [example policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment)
 from the [Geek Feminism wiki](http://geekfeminism.wikia.com/), created by the
