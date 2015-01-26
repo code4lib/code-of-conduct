@@ -10,9 +10,9 @@ safe conference experience and ongoing community for everyone. We do not tolerat
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
 
-Harassment is understood as any behavior that demeans another person or
-group, or produces an unsafe environment.  It includes offensive verbal
-comments or non-verbal expressions related to gender, gender identity,
+Harassment is understood as any behavior that threatens or demeans another
+person or group, or produces an unsafe environment.  It includes offensive
+verbal comments or non-verbal expressions related to gender, gender identity,
 gender expression, sexual orientation, disability, physical appearance,
 body size, race, age, religious or political beliefs; sexual or
 discriminatory images in public spaces (including online); deliberate
@@ -119,7 +119,7 @@ In the case of organized events, those responsible for the event should have rea
 * **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
-* **IRC channel administrators:** [IRC USERNAMES]
+* **zoia administrators:** [IRC USERNAMES]
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
