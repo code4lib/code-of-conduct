@@ -8,7 +8,8 @@ Resources for policies/starting points:
 * [The Ada Initiative: Anti-harassment work](http://adainitiative.org/what-we-do/conference-policies/)
 * [Geek Feminism Wiki: example anti-harassment policy for conferences](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 * [howto hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
-* [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
+* [MoreThaMen.org Harassment policy examples for conferences ](http://www.morethanmen.org/harassment-policies/)
+* [CAUT Anti-harassment and Non-Discrimination Statement](http://www.caut.ca/about-us/caut-policy/lists/administrative-procedures-and-guidelines/caut-anti-harassment-statement)
 * [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
 
 ## Open questions
