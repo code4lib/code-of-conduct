@@ -1,7 +1,7 @@
 
-# Enforcing the CodeOfConduct4Lib
+# Procedures for handling violations of CodeOfConduct4Lib
 
-A code of conduct matters as a statement of signal of values. Ultimately, however, it is only as good as its enforcement procedures. In the event that an incident arises, we need a roadmap for handling it; implicitly expecting our volunteers to invent procedure during a crisis is unfair to them and likely to worsen matters for all concerned.
+A code of conduct matters as a statement of values. Ultimately, however, it is only as good as its enforcement procedures. This procedure documents actions to be taken by code4lib conference staff and volunteers in the event of a violation of the [Code of Conduct](code_of_conduct.md) 
 
 ## Before the conference
 
