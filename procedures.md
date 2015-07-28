@@ -5,12 +5,17 @@ A code of conduct matters as a statement of values. Ultimately, however, it is o
 
 ## Before the conference
 
+* Assemble conference sub-comittee to handle implementation of procedures.
+* Ensure Local Planning commitee includes a quiet, private space suitable for taking reports in venue requirements.
 * Select duty officers, and familiarize them with this document and the CodeOfConduct4Lib.
+* Identify an organize any required traning for duty officers.
 * Decide how conferencegoers will be able to recognize duty officers, and publicize this.
 * Schedule duty officer shifts.
+* Ensure that leaders of official off-site events (tours / newcomer dinners, etc) are familar with CodeOfConduct4Lib. 
 * Decide which conference organizers will be responsible for incident response, and familiarize them with this document and the CodeOfConduct4Lib.
 * Make sure all of the people in this section have each others' contact information.
 * Consult last year's organizers for any knowledge they need to transfer relevant to enforcement (e.g. prior incident response; iterations to procedure; or people with ongoing sanctions).
+* Investigate local laws that may affect procedures. 
 
 Your duty officers and conference organizers should be a small group of kind, articulate, and trustworthy people who reflect the diversity of the conference.
 
@@ -60,6 +65,7 @@ Conference organizers should recognize the handles that duty officers will use t
 
 ### Supplies
 * Working, charged phone and charger
+* Walkie Talkies for duty officer and organizing committee 
 * Contact information for senior conference organizers
 * Local contact information: emergency services, venue security, taxi companies, mental health crisis hotline, sexual assault crisis hotline
 * Venue maps, including accessibility information
