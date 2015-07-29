@@ -139,12 +139,12 @@ There will probably be upset community members who want to talk. Conference staf
 ## After the conference
 
 If someone's conduct was egregious enough that they should be banned or otherwise sanctioned in future years, this needs to be recorded and communicated to future committees.
-* TODO recording policy
-* TODO data retention policy
-* TODO data privacy/access policy
+* The Local Planning committee chairs are responsible for obtaining records of incidents from previous years conference organizers. 
+* Local Planning committee chairs have the responsibility to store records securely, to disseminate as-needed in the course of organizing the event, and to update as needed.
+* Local Planning committee chairs are responsible for ensuring that anyone to whom the records are disclosed are aware of this document, aware of the privacy policy regrding the records, and are not themselves associated with any records in a way that wcould create a breach of privacy.
 
-If your responses to a conference incident need to continue after the conference:
-* TODO responsible party
+If your responses to a conference incident need to continue after the conference, the Local Planning committee chairs are responsible for ensuring the continued response.  
+
 
 If there actually was an incident:
 * TODO postmortem plans, communicating lessons learned to future conference organizers
