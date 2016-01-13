@@ -6,7 +6,8 @@ CodeOfConduct4Lib
 Short link: <http://bit.ly/coc4lib>
 
 Code4Lib seeks to provide a welcoming, professionally engaging, fun, and
-safe conference experience and ongoing community for everyone. We do not tolerate harassment in any form. Discriminatory language and imagery
+safe conference experience and ongoing community for everyone. We do not 
+tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
 
@@ -119,7 +120,8 @@ In the case of organized events, those responsible for the event should have rea
 * **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
-* **zoia administrators:** [IRC USERNAMES]
+* **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
+`/msg zoia helpers #code4lib`
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
