@@ -17,6 +17,7 @@ This is a repository to provide a space to draft and allow for dialog in the cre
 * [ARL](http://www.arl.org/news/arl-news/4154-research-libraries-and-archives-stand-committed-to-diversity-inclusion-equity-social-justice)
 * [ALA](https://americanlibrariesmagazine.org/blogs/the-scoop/statement-libraries-association-diversity-inclusion/)
 * [PLA](https://americanlibrariesmagazine.org/blogs/the-scoop/statement-libraries-association-diversity-inclusion/)
+* [DLF](https://www.diglib.org/archives/12979/)
 
 ### From Higher Ed
 * [University of California] (https://www.universityofcalifornia.edu/press-room/university-california-statement-election)
@@ -51,20 +52,6 @@ Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/
 
 ### Using Github (doesn't require knowing Git)
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy/diversity (click the "Fork" button in the upright corner of the page)
-1. Click the link for one of the files 
-1. Click the Edit button
-1. Add a commit summary and (optionally) an extended description
-1. Click the Commit Changes button
-1. Create a pull request by clicking the Pull Request button at the top of the page
+* The Code4Lib diversity statement and the related stuff is located in a child directory "diversity" inside the 'Antiharassment Policy' repo.
 
-### Using Git
-
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy/diversity
-1. Clone your fork locally (`git clone
-git@github.com:your-username/antiharassment-policy/diversity.git my-diversity`)
-1. Create a branch to hold your changes (`git checkout -b my-changes`)
-1. Commit the changes you've made (`git commit -am "Some descriptive text around
-what you've added"`)
-1. Push your branch to github (`git push origin my-changes`)
-1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/diversity/pull/new/master
+* See the Contribute Section (https://github.com/code4lib/antiharassment-policy/blob/master/README.md#contribute) of the README file of the parent repo 'Antiharrahssment Policy.' 
