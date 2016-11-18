@@ -2,3 +2,4 @@ Bohyun Kim (@bohyunkim on github, twitter, Slack)
 Esmé Cowles (@escowles on github, twitter, Slack, IRC)
 Nick Ruest (@ruebot on github, twitter, Slack, IRC
 Michael Della Bitta (@mdellabitta on github, twitter, Slack, IRC)
+Brian Rogers (@bhar0 on github, twitter, Slack, IRC)
