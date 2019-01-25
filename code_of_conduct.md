@@ -53,6 +53,10 @@ contact, and unwelcome sexual attention.
     If you are in the #code4lib IRC, the zoia command to list people
     designated as channel helpers is @helpers . There is at least one helper 
     in the channel at most times.
+    
+    If you are in the code4lib Slack, contact one of the admins. You can find this list by clicking the the "⋮" button
+    in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
+    select list.
 
     For the listserv, you have a free-for-all for public messages; however,
     the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).
