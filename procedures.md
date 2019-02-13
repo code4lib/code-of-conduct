@@ -4,7 +4,7 @@ A code of conduct matters as a statement of values. Ultimately, however, it is o
 
 ### How to Report
 
- If you witness, suspect, or are the target of a violation of the code of conduct, contact a duty officer as soon as possible by emailing [c4l19-duty-officers@googlegroups.com.](c4l19-duty-officers@googlegroups.com) All complaints will be taken seriously and kept confidential.
+If you witness, suspect, or are the target of a violation of the code of conduct, contact a duty officer as soon as possible by emailing [c4l19-duty-officers@googlegroups.com.](mailto:c4l19-duty-officers@googlegroups.com) All complaints will be taken seriously and kept confidential.
 
 ### Taking reports
 
