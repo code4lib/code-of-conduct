@@ -13,13 +13,13 @@ Volunteers will not:
 
 * Respond to front-line customer service queries (these are probably best handled by the registration desk)
 * Be everyone's pal
-* Follow reporters to offsite medical or other services (duty officers need to stay onsite; delegate this task to someone the reporter trusts if needed)
-* Put themselves in danger (DO NOT DO THIS FOR ANY REASON. Your personal safety supersedes your duty officer responsibilities.)
+* Follow reporters to offsite medical or other services (community support volunteers need to stay onsite; delegate this task to someone the reporter trusts if needed)
+* Put themselves in danger (DO NOT DO THIS FOR ANY REASON. Your personal safety supersedes your community support volunteer responsibilities.)
 
 CSVs will work in scheduled shifts, will be clearly indicated (at a specified location, wearing something distinctive), and available at all official conference events, including social events. There should be enough volunteers that no one has to be constantly on. A CSV should be constantly interruptible, so they shouldn't also be doing noninterruptible conference tasks (e.g. livestreaming).
 
 CSVs going off-shift should brief those coming on about recent incidents, if applicable.
-Conference organizers should recognize the handles that duty officers will use to contact them (phone numbers, IRC nicks, etc. - decide in advance and collate this info). They should treat contacts from duty officers as priority interrupts.
+Conference organizers should recognize the handles that community support volunteers will use to contact them (phone numbers, IRC nicks, etc. - decide in advance and collate this info). They should treat contacts from community support volunteers as priority interrupts.
 
 ## Coordinators
 
@@ -35,7 +35,8 @@ Once vetted, responsibilities of the coordinators include:
 * Create a schedule for coverage throughout the conference activities
 * Review and prepare training materials; schedule and provide training to volunteers
 * Provide guidance throughout the conference to the volunteers and convene conversations to make decisions about reports.
-* Decide how conference goers will be able to recognize duty officers, and publicize this
+* Decide how conference goers will be able to recognize community support
+  volunteers, and publicize this
 * Ensure that leaders of official off-site events (tours / newcomer dinners, etc) are familiar with Code Of Conduct.
 * Ensure Local Planning committee includes a quiet, private space suitable for taking reports in venue requirements.
 * Establish lines of communication for CSS (i.e. private Slack channel for communications prior to conference; Signal for on-the-ground communication at the conference) and make sure all volunteers have each others' contact information.
@@ -47,7 +48,7 @@ Once vetted, responsibilities of the coordinators include:
 * Contact information for senior conference organizers
 * Local contact information: emergency services, venue security, taxi companies, mental health crisis hotline, sexual assault crisis hotline
 * Venue maps, including accessibility information
-* Read/write access to incident logs from all duty officers at this event
+* Read/write access to incident logs from all community support volunteers at this event
 * Access to a quiet, private space suitable for taking reports
 * A copy of the procedures for responding to code of conduct violations
 * Paper for recording reports
