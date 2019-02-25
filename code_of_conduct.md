@@ -57,6 +57,11 @@ contact, and unwelcome sexual attention.
     If you are in the code4lib Slack, contact one of the admins. You can find this list by clicking the the "⋮" button
     in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
     select list.
+    
+    If you are in the code4lib Discord, contact anyone who is assigned the csvs (community support volunteer) role. 
+    Those who are designated that role will have a green highlighted user name. For those who may not be able to see
+    the color, you will know if someone has the csvs role by clicking on their name/profile and csvs will be listed 
+    under roles. If on the desktop you can see a list of those in this role in the upper right corner. 
 
     For the listserv, you have a free-for-all for public messages; however,
     the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).
