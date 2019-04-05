@@ -52,7 +52,7 @@ the community.
    lightning talk in San Jose). The official enforcement of the Code of Conduct
    should not be limited to the annual national conference. This standing
    committee would be initially led by Francis Kayiwa, Mark Matienzo, and Anne
-   Slaughte, along with others in the community to be recruited, and would focus
+   Slaughter, along with others in the community to be recruited, and would focus
    on revising the current Code of Conduct and establishing standing channels
    for detecting, reporting, and responding to violations. We would keep the
    email and anonymous webform open for reporting, and have discussions with
