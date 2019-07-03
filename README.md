@@ -23,7 +23,7 @@ You can make these suggestions in one of the following ways:
 
 * If you are familiar with **git** and **GitHub**, you can fork this repository, make your changes, and submit a Pull Request.  See <a href="#contribute">"Contribute"</a>, below.
 * You may create a new issue: [https://github.com/code4lib/antiharassment-policy/issues/new](<https://github.com/code4lib/antiharassment-policy/issues/new>)
-* You can send an email to one or more of the people identified as members of the [Community Support Squad](csvcharge.md).
+* You can send an email to one or more of the people identified as members of the [Community Support Squad](css_volunteers.md).
 
 
 ## License

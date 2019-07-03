@@ -60,7 +60,7 @@ contact, and unwelcome sexual attention.
     select list.
 
     If you are on the listserv, you're in a free-for-all for public messages; however,
-    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).  In addition, there are [Community Support Volunteers](csvcharge) whom you may want to involve.
+    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).  In addition, there are [Community Support Volunteers](css_volunteers.md) whom you may want to involve.
 
 3. Wider community response to Incident:
 
