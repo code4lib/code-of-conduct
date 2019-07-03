@@ -59,7 +59,7 @@ contact, and unwelcome sexual attention.
     in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
     select list.
 
-    If you are on the listserv, you're in a free-for-all for public messages; however,
+    If you are on the [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), you're in a free-for-all for public messages; however,
     the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).  In addition, there are [Community Support Volunteers](css_volunteers.md) whom you may want to involve.
 
 3. Wider community response to Incident:
