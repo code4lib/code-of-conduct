@@ -45,9 +45,10 @@ contact, and unwelcome sexual attention.
     actively harassing you, or if direct engagement is not a good option
     for you at this time, then you will need a third party to step in.
 
-    If you are at a conference or other event, find the event organizer or
+    If you are at a conference or other event, 
+    find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
     staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
-    If you can't find the event organizer, there will be other staff 
+    If you can't find either of these, there will be other staff 
     available to help if the situation calls for immediate action.
 
     If you are in the #code4lib IRC, the zoia command to list people
@@ -58,8 +59,8 @@ contact, and unwelcome sexual attention.
     in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
     select list.
 
-    For the listserv, you have a free-for-all for public messages; however,
-    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).
+    If you are on the listserv, you're in a free-for-all for public messages; however,
+    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).  In addition, there are [Community Support Volunteers](csvcharge) whom you may want to involve.
 
 3. Wider community response to Incident:
 
@@ -109,6 +110,7 @@ events (either indefinitely or for a certain time period)
 * requiring that the harasser immediately leave the event and not return
 * banning the harasser from future events (either indefinitely or for a
 certain time period)
+* banning the harasser from any (or all) Code4Lib channels
 * publishing an account of the harassment
 
 Code4Lib event organizers can be identified by their name badges, and will
@@ -117,6 +119,8 @@ provide escorts, or otherwise assist those experiencing harassment to feel
 safe for the duration of the event. Code4Lib IRC volunteers can be identified
 by issuing the `@helpers` command to the #code4lib bot named "zoia".
 
+
+
 In the case of organized events, those responsible for the event should have readily available the following information:
 
 * **Conference organizer:** [ORGANIZER NAME], [PHONE NUMBER]
@@ -124,8 +128,11 @@ In the case of organized events, those responsible for the event should have rea
 * **[MUNICIPALITY] Police Department**: [PHONE NUMBER]
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
+* **Community Support Volunteers:** including the [PHONE NUMBER]
 * **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
 `/msg zoia helpers #code4lib`
+
+
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
