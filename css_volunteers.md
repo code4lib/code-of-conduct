@@ -7,7 +7,6 @@ Please respect that these are **volunteers**: they are not available 24/7; there
 
 Therefore, it would be helpful to make sure you've provided context for your concern.
 
-
 * Aaron Collier (aaron.collier@stanford.edu)
 * Bobbi Fox (bobbi@bobbifox.net)
 * Francis Kayiwa (kayiwa@pobox.com)
