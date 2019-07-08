@@ -52,9 +52,9 @@ We ask that you consider the following guidelines when you post to the listserv,
 
 #### Participating in a conversation/thread
 
-1. Before responding to a post  (unless it's just asking for a *show of hands*, try taking a breath. **You don't have to be the first responder.**  Unless you are The Acknowledged Expert -- or the situation is urgent (e.g.: "Help, my website is undergoing a Denial of Service attack! What do I do?"), someone else may have a response as good as or better than yours.
+1. Before responding to a post (unless it's just asking for a *show of hands*), try taking a breath. **You don't have to be the first responder.**  Unless you are The Acknowledged Expert -- or the situation is urgent (e.g.: "Help, my website is undergoing a Denial of Service attack! What do I do?"), someone else may have a response as good as or better than yours.
 
-  If you've been away from your email for a while, you may want to see if there are any responses already that got the job done.
+  If you've been away from your email for a while, you may want to see if there are any responses that  already got the job done.
 
 2. **Be kind.**  Remember that not everyone has the same level of technical *or* librarian expertise.  If someone asks what you consider a naive or foolish question, responding with sarcasm or irony is not a good look. Remember, **you** don't have to respond at all.
 
