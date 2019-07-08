@@ -22,7 +22,7 @@ As we learn and grow, we welcome suggestions for changes.
 You can make these suggestions in one of the following ways:
 
 * If you are familiar with **git** and **GitHub**, you can fork this repository, make your changes, and submit a Pull Request.  See <a href="#contribute">"Contribute"</a>, below.
-* You may create a new issue: [https://github.com/code4lib/antiharassment-policy/issues/new](<https://github.com/code4lib/antiharassment-policy/issues/new>)
+* You may create a new issue: [https://github.com/code4lib/code-of-conduct/issues/new](<https://github.com/code4lib/antiharassment-policy/issues/new>)
 * You can send an email to one or more of the people identified as members of the [Community Support Squad](css_volunteers.md).
 
 
@@ -38,7 +38,7 @@ Discussion is welcome on the [Code4lib listserv](https://lists.clir.org/cgi-bin/
 
 ### Using Github (doesn't require knowing Git)
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy (click the "Fork" button in the upright corner of the page)
+1. Fork the codebase e.g. to https://github.com/your-username/code-of-conduct (click the "Fork" button in the upright corner of the page)
 1. Click the link for one of the files (e.g. `code_of_conduct.md`)
 1. Click the Edit button
 1. Add a commit summary and (optionally) an extended description
@@ -47,11 +47,11 @@ Discussion is welcome on the [Code4lib listserv](https://lists.clir.org/cgi-bin/
 
 ### Using Git
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy
+1. Fork the codebase e.g. to https://github.com/your-username/code-of-conduct
 1. Clone your fork locally (`git clone
-git@github.com:your-username/antiharassment-policy.git my-antiharassment-policy`)
+git@github.com:your-username/code-of-conduct my-code-of-conduct`)
 1. Create a branch to hold your changes (`git checkout -b my-changes`)
 1. Commit the changes you've made (`git commit -am "Some descriptive text around
 what you've added"`)
 1. Push your branch to github (`git push origin my-changes`)
-1. Create a pull request e.g. at https://github.com/your-username/antiharassment-policy/pull/new/master
+1. Create a pull request e.g. at https://github.com/your-username/code-of-conduct/pull/new/master
