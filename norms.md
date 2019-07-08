@@ -13,7 +13,7 @@ This page serves to address some specific norms that we hope to promote for vari
 
 ## The listserv
 
-The [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) remains a vital part of the Code4Lib community.  
+The [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) remains a vital part of the Code4Lib community.  There are about 3600 subscribers to the listserv.
 
 ### Appropriate topics
 
@@ -38,8 +38,34 @@ If you wish to ask people on the listserv to participate in a survey, you should
 * (if collecting identifying information such as email address, name), what you plan to do with it, and how you'll keep it secure.
 
 
+### Participating on the listserv 
+
+We ask that you consider the following guidelines when you post to the listserv, keeping in mind that there **are** about 3600 subscribers, and that propagation times vary, so that some subscribers may not see a message for several minutes after it's been posted.
+
+#### Starting a conversation/thread
+
+1. If you are posting a request for help, be as specific as possible.  Don't assume that everyone is using the same operating/database management/library system as you are.
+
+2. If you are making an announcement (such as for a conference), make sure you present all the information clearly -- if you use acronyms, spell them out. For example: SAA can stand for "Society of American Archivists" or "Society for American Archaeology" (among many others), either of which might be relevant to subscribers to Code4Lib.
+
+3. Remember that Code4Lib is a listserv heard 'round the world; if your question is country-centric, say so.
+
+#### Participating in a conversation/thread
+
+1. Before responding to a post  (unless it's just asking for a *show of hands*, try taking a breath. **You don't have to be the first responder.**  Unless you are The Acknowledged Expert -- or the situation is urgent (e.g.: "Help, my website is undergoing a Denial of Service attack! What do I do?"), someone else may have a response as good as or better than yours.
+
+  If you've been away from your email for a while, you may want to see if there are any responses already that got the job done.
+
+2. **Be kind.**  Remember that not everyone has the same level of technical *or* librarian expertise.  If someone asks what you consider a naive or foolish question, responding with sarcasm or irony is not a good look. Remember, **you** don't have to respond at all.
+
+4. **Be kind, take 2.** Just about everyone who participates on the Code4Lib listserv is committed to building this cooperative community.  If you feel "slapped" by something, feel that there are microagressions happening, etc., first re-read the post to make sure there isn't another way of reading it.  If you still need to respond, please do it in a way that addresses the behavior, not the person posting.  Just as is recommended for initial handling of [Conflict Resolution](<https://github.com/code4lib/code-of-conduct/blob/master/code_of_conduct.md#conflict-resolution>) at Code4Lib, perhaps a private email asking for clarification first would help resolve things. 
+
+  If things remain tense, with much back-and-forth, please contact one or more [Community Support Volunteers](css_volunteers.md) for help.
 
 
+5. You are not obliged to respond to private email.  If the emailer persists, please contact one or more [Community Support Volunteers](css_volunteers.md) for help.
+
+6. No name calling.  'Nuff said.
 
 
 
