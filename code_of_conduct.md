@@ -21,7 +21,39 @@ intimidation, stalking, following, harassing photography or recording;
 sustained disruption of talks or other events, inappropriate physical
 contact, and unwelcome sexual attention.
 
+## Sanctions
+
+Participants asked to stop any harassing behavior are expected to comply
+immediately.  If a participant engages in harassing behavior, organizers may
+take any action they deem appropriate, including warning the offender,
+expulsion from the Code4Lib event, or banning the offender from a chatroom
+or mailing list.
+
+Specific sanctions may include but are not limited to:
+
+* warning the harasser to cease their behavior and that any further reports
+will result in other sanctions
+* requiring that the harasser avoid any interaction with, and physical
+proximity to, their victim for the remainder of the event
+* early termination of a talk that violates the policy
+* not publishing the video or slides of a talk that violated the policy
+* not allowing a speaker who violated the policy to give (further) talks at
+the event
+* immediately ending any event volunteer responsibilities and privileges the
+harasser holds requiring that the harasser not volunteer for future Code4lib
+events (either indefinitely or for a certain time period)
+* requiring that the harasser immediately leave the event and not return
+* banning the harasser from future events (either indefinitely or for a
+certain time period)
+* banning the harasser from any (or all) Code4Lib channels
+* publishing an account of the harassment
+
 ## Conflict Resolution
+
+If you witness, suspect, or are the target of a violation of the code of conduct, contact a community support volunteer as soon as possible by emailing c4l19-duty-officers@googlegroups.com, or contacting one of the identified  [Community Support Volunteers](css_volunteers.md). 
+
+All complaints will be taken seriously and kept confidential.  The Community Support Squad has [procedures](procedures.md) that community support volunteers will follow in handling reports.  Below is a discussion of handling a n incident from the perspective of the reporter.
+
 
 1. Initial Incident
 
@@ -86,32 +118,9 @@ contact, and unwelcome sexual attention.
     that lead to something tangible (affirmation of decision, change in CoC,
     modify decision, etc,).
 
-## Sanctions
 
-Participants asked to stop any harassing behavior are expected to comply
-immediately.  If a participant engages in harassing behavior, organizers may
-take any action they deem appropriate, including warning the offender,
-expulsion from the Code4Lib event, or banning the offender from a chatroom
-or mailing list.
 
-Specific sanctions may include but are not limited to:
-
-* warning the harasser to cease their behavior and that any further reports
-will result in other sanctions
-* requiring that the harasser avoid any interaction with, and physical
-proximity to, their victim for the remainder of the event
-* early termination of a talk that violates the policy
-* not publishing the video or slides of a talk that violated the policy
-* not allowing a speaker who violated the policy to give (further) talks at
-the event
-* immediately ending any event volunteer responsibilities and privileges the
-harasser holds requiring that the harasser not volunteer for future Code4lib
-events (either indefinitely or for a certain time period)
-* requiring that the harasser immediately leave the event and not return
-* banning the harasser from future events (either indefinitely or for a
-certain time period)
-* banning the harasser from any (or all) Code4Lib channels
-* publishing an account of the harassment
+## At a conference: finding someone to help
 
 Code4Lib event organizers can be identified by their name badges, and will
 help participants contact hotel/venue security or local law enforcement,

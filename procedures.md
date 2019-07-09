@@ -1,10 +1,7 @@
-# Procedures for reporting and responding to violations of Code of Conduct
+# Procedures for responding to violations of Code of Conduct
 
 A code of conduct matters as a statement of values. Ultimately, however, it is only as good as its enforcement procedures. This procedure documents actions to be taken by [Code4Lib](https://github.com/code4lib/code-of-conduct/blob/master/code_of_conduct.md) conference staff and volunteers in the event of a violation of the Code of Conduct. These activities will be led by the [Community Support Squad.](csvcharge.md)
 
-### How to Report
-
-If you witness, suspect, or are the target of a violation of the code of conduct, contact a community support volunteer as soon as possible by emailing [c4l19-duty-officers@googlegroups.com.](mailto:c4l19-duty-officers@googlegroups.com) All complaints will be taken seriously and kept confidential.
 
 ### Taking reports
 

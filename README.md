@@ -14,7 +14,7 @@ Resources for policies/starting points:
 
 ## Code of Code4Lib Conduct
 
-The [Code of Code4Lib Conduct](code_of_conduct.md) is an evolving document that applies not only to the annual Code4Lib conference, but also to the other ways we interact, including the[Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), irc, and other Code4Lib venues, such as the Slack and Discord channels. 
+The [Code of Code4Lib Conduct](code_of_conduct.md) is an evolving document that applies not only to the annual Code4Lib conference, but also to the other ways we interact, including the [Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), irc, and other Code4Lib venues, such as the Slack and Discord channels. 
 
 As we learn and grow, we welcome suggestions for changes.
 
