@@ -46,11 +46,13 @@ We ask that you consider the following guidelines when you post to the listserv,
 
 #### Starting a conversation/thread
 
-1. If you are posting a request for help, be as specific as possible.  Don't assume that everyone is using the same operating/database management/library system as you are.
+1. Please use descriptive Subject lines. "The mumblefratz conference is soliciting submissions" is much better than "Announcement".
 
-2. If you are making an announcement (such as for a conference), make sure you present all the information clearly -- if you use acronyms, spell them out. For example: SAA can stand for "Society of American Archivists" or "Society for American Archaeology" (among many others), either of which might be relevant to subscribers to Code4Lib.
+2. If you are posting a request for help, be as specific as possible.  Don't assume that everyone is using the same operating/database management/library system as you are.
 
-3. Remember that Code4Lib is a listserv heard 'round the world; if your question is country-centric, say so.
+3. If you are making an announcement (such as for a conference), make sure you present all the information clearly -- if you use acronyms, spell them out. For example: SAA can stand for "Society of American Archivists" or "Society for American Archaeology" (among many others), either of which might be relevant to subscribers to Code4Lib.
+
+4. Remember that Code4Lib is a listserv heard 'round the world; if your question is country-centric, say so.
 
 #### Participating in a conversation/thread
 
@@ -59,6 +61,8 @@ We ask that you consider the following guidelines when you post to the listserv,
   If you've been away from your email for a while, you may want to see if there are any responses that  already got the job done.
 
 2. **Be kind.**  Remember that not everyone has the same level of technical *or* librarian expertise.  If someone asks what you consider a naive or foolish question, responding with sarcasm or irony is not a good look. Remember, **you** don't have to respond at all.
+
+3. If your response is tangential to the main point of the thread, consider replying with a different Subject line.  The old Usenet convention of **[New Subject] (was: [old subject])** can be your friend. As an example: "Why python is better than Ruby On Rails for ArchivesSpace (was: Help with an ArchivesSpace problem)"
 
 4. **Be kind, take 2.** Just about everyone who participates on the Code4Lib listserv is committed to building this cooperative community.  If you feel "slapped" by something, feel that there are microagressions happening, etc., first re-read the post to make sure there isn't another way of reading it.  If you still need to respond, please do it in a way that addresses the behavior, not the person posting.  Just as is recommended for initial handling of [Conflict Resolution](<https://github.com/code4lib/code-of-conduct/blob/master/code_of_conduct.md#conflict-resolution>) at Code4Lib, perhaps a private email asking for clarification first would help resolve things. 
 
