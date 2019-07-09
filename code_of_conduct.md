@@ -52,7 +52,7 @@ certain time period)
 
 If you witness, suspect, or are the target of a violation of the code of conduct, contact a community support volunteer as soon as possible by emailing c4l19-duty-officers@googlegroups.com, or contacting one of the identified  [Community Support Volunteers](css_volunteers.md). 
 
-All complaints will be taken seriously and kept confidential.  The Community Support Squad has [procedures](procedures.md) that community support volunteers will follow in handling reports.  Below is a discussion of handling a n incident from the perspective of the reporter.
+All complaints will be taken seriously and kept confidential.  The Community Support Squad has [procedures](procedures.md) that community support volunteers will follow in handling reports.  Below is a discussion of handling an incident from the perspective of the reporter.
 
 
 1. Initial Incident
