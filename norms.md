@@ -13,11 +13,13 @@ This page serves to address some specific norms that we hope to promote for vari
 
 ## The listserv
 
-The [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) remains a vital part of the Code4Lib community.  There are about 3600 subscribers to the listserv.
+The [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) remains a vital part of the Code4Lib community.  There are about 3600 subscribers to the listserv, which means that there may be posting threads that do not interest you; feel free to use your email client's filtering function to handle that.
 
 ### Appropriate topics
 
-Although its formal definition states that it "... provides a forum for discussion all things relating to programming code for libraries. This is a place to discuss particular programming languages, but also provides a place to discuss the issues of programming in libraries in general.", it can also be a place to discuss related topics, such as the issues of being the programmer in a library. The questions of  diversity, sexual harassment, microagressions, etc., may all be appropriate related topics of discussion.
+Although its formal definition states that it "... provides a forum for discussion all things relating to programming code for libraries. This is a place to discuss particular programming languages, but also provides a place to discuss the issues of programming in libraries in general.", it can also be a place to discuss related topics, such as the issues of being the programmer in a library. The questions of  diversity, privacy, professional standards, etc., may all be appropriate related topics of discussion.
+
+
 
 ### Anonymity
 
