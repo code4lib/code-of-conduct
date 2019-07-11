@@ -141,7 +141,9 @@ In the case of organized events, those responsible for the event should have rea
 * **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
 `/msg zoia helpers #code4lib`
 
+## Community Norms
 
+A Code of Conduct is intended to protect community members from harm in community spaces and outlines unacceptable behavior. See guidelines for positive engagement in the Code4Lib [community norms](norms.md).  
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online communication channels.
