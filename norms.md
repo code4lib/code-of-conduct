@@ -60,7 +60,7 @@ We ask that you consider the following guidelines when you post to the listserv,
 
   If you've been away from your email for a while, you may want to see if there are any responses that  already got the job done.
 
-2. **Be kind.**  Remember that not everyone has the same level of technical *or* librarian expertise.  If someone asks what you consider a naive or foolish question, responding with sarcasm or irony is not a good look. Remember, **you** don't have to respond at all.
+2. **Be kind.**  Remember that not everyone has the same level of technical *or* librarian expertise.  Also, English isn't everyone's first language. If someone asks what you consider a naive or foolish question, responding with sarcasm or irony is not a good look. Remember, **you** don't have to respond at all.
 
 3. If your response is tangential to the main point of the thread, consider replying with a different Subject line.  The old Usenet convention of **[New Subject] (was: [old subject])** can be your friend. As an example: "Why python is better than Ruby On Rails for ArchivesSpace (was: Help with an ArchivesSpace problem)"
 
