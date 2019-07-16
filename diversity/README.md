@@ -46,12 +46,12 @@ http://sd24.senate.ca.gov/news/2016-11-09-joint-statement-california-legislative
 
 ## Discuss
 
-Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/code-of-conduct/issues/new
+Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
 
 ## Contribute
 
 ### Using Github (doesn't require knowing Git)
 
-* The Code4Lib diversity statement and the related stuff is located in a child directory "diversity" inside the 'Code of Conduct' repository
+* The Code4Lib diversity statement and the related stuff is located in a child directory "diversity" inside the 'Antiharassment Policy' repo.
 
-* See the Contribute Section (https://github.com/code4lib/code-of-conduct/blob/master/README.md#contribute) of the README file of the parent repository 'Code-of-Conduct' 
+* See the Contribute Section (https://github.com/code4lib/antiharassment-policy/blob/master/README.md#contribute) of the README file of the parent repo 'Antiharrahssment Policy.' 
