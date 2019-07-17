@@ -64,14 +64,23 @@ We ask that you consider the following guidelines when you post to the listserv,
 
 3. If your response is tangential to the main point of the thread, consider replying with a different Subject line.  The old Usenet convention of **[New Subject] (was: [old subject])** can be your friend. As an example: "Why python is better than Ruby On Rails for ArchivesSpace (was: Help with an ArchivesSpace problem)"
 
-4. **Be kind, take 2.** Just about everyone who participates on the Code4Lib listserv is committed to building this cooperative community.  If you feel "slapped" by something, feel that there are microaggressions happening, etc., first re-read the post to make sure there isn't another way of reading it.  If you still need to respond, please do it in a way that addresses the behavior, not the person posting.  Just as is recommended for initial handling of [Conflict Resolution](<https://github.com/code4lib/code-of-conduct/blob/master/code_of_conduct.md#conflict-resolution>) at Code4Lib, perhaps a private email asking for clarification first would help resolve things. 
+4. **Be kind, take 2.** Just about everyone who participates on the Code4Lib listserv is committed to building this
+cooperative community. If you feel "slapped" by something, first re-read the post to make sure there isn't another
+way of reading it. If you still need to respond, please do it in a way that addresses the behavior, not the person
+posting.
 
-  If things remain tense, with much back-and-forth, please contact one or more [Community Support Volunteers](css_volunteers.md) for help.
+5. Code4Lib values the diversity of its community: posts containing microaggressions, stereotyping, or other potentially
+offensive content are not welcome. If you make a post containing this type of material, be prepared to have the community
+react negatively to your statement. If you receive feedback of this nature about your post, take it seriously and
+consider changing the language you are using to discuss the topic.
+
+6. If you feel a post contains microaggressions against
+you and you don't want to take on addressing it on your own, please contact the [Community Support Volunteers](css_volunteers.md) for help.
 
 
-5. You are not obliged to respond to private email.  If the emailer persists, please contact one or more [Community Support Volunteers](css_volunteers.md) for help.
+7. You are not obliged to respond to private email.  If the emailer persists, please contact one or more [Community Support Volunteers](css_volunteers.md) for help.
 
-6. No name calling.  'Nuff said.
+8. No name calling.  'Nuff said.
 
 
 
