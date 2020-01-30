@@ -6,7 +6,7 @@ CodeOfConduct4Lib
 Short link: <http://bit.ly/coc4lib>
 
 Code4Lib seeks to provide a welcoming, professionally engaging, fun, and
-safe conference experience and ongoing community for everyone. We do not 
+safe conference experience and ongoing community for everyone. We do not
 tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
@@ -28,33 +28,33 @@ contact, and unwelcome sexual attention.
     If you are being harassed, notice that someone else is being harassed,
     or have any other concerns, __and you feel comfortable speaking with
     the offender__, please inform the offender that he/she/ze has affected you 
-    negatively. Oftentimes, the offending behavior is unintentional, and the 
-    accidental offender and offended will resolve the incident by having 
+    negatively. Oftentimes, the offending behavior is unintentional, and the
+    accidental offender and offended will resolve the incident by having
     that initial discussion.
-    
+
     Code4Lib recognizes that there are many reasons speaking directly to
     the offender may not be workable for you (including but not limited to
-    unfamiliarity with the conference or its participants, [lack of spoons](http://www.butyoudontlooksick.com/wpress/articles/written-by-christine/the-spoon-theory/),
-    and concerns for personal safety). If you don't feel comfortable 
-    speaking directly with the offender for any reason, skip straight to 
+    unfamiliarity with the conference or its participants, [lack of spoons](https://web.archive.org/web/20191117210039/https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/),
+    and concerns for personal safety). If you don't feel comfortable
+    speaking directly with the offender for any reason, skip straight to
     step 2.
 
-2. Escalation 
+2. Escalation
 
     If the offender insists that he/she/ze did not offend, if offender is
     actively harassing you, or if direct engagement is not a good option
     for you at this time, then you will need a third party to step in.
 
-    If you are at a conference or other event, 
+    If you are at a conference or other event,
     find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
     staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
-    If you can't find either of these, there will be other staff 
+    If you can't find either of these, there will be other staff
     available to help if the situation calls for immediate action.
 
     If you are in the #code4lib IRC, the zoia command to list people
-    designated as channel helpers is @helpers . There is at least one helper 
+    designated as channel helpers is @helpers . There is at least one helper
     in the channel at most times.
-    
+
     If you are in the code4lib Slack, contact one of the admins. You can find this list by clicking the the "⋮" button
     in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
     select list.
