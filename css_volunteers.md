@@ -7,9 +7,7 @@ Please respect that these are **volunteers**: they are not available 24/7; there
 
 Therefore, it would be helpful to make sure you've provided context for your concern.
 
-* Aaron Collier (aaron.collier@stanford.edu)
+* Eric Phetteplace (phette23@gmail.com)
+* Natasha Allen (ndallen@umich.edu)
 * Bobbi Fox (bobbi@bobbifox.net)
-* Francis Kayiwa (kayiwa@pobox.com)
-* Mark Matienzo (mark.matienzo@gmail.com)
 * Anne Slaughter (anne.slaughter@railslibraries.info)
-
