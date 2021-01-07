@@ -27,7 +27,7 @@ contact, and unwelcome sexual attention.
 
     If you are being harassed, notice that someone else is being harassed,
     or have any other concerns, __and you feel comfortable speaking with
-    the offender__, please inform the offender that he/she/ze has affected you 
+    the offender__, please inform the offender that he/she/ze has affected you
     negatively. Oftentimes, the offending behavior is unintentional, and the
     accidental offender and offended will resolve the incident by having
     that initial discussion.
@@ -46,21 +46,29 @@ contact, and unwelcome sexual attention.
     for you at this time, then you will need a third party to step in.
 
     If you are at a conference or other event,
-    find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
-    staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
-    If you can't find either of these, there will be other staff
+    find the on-call [Community Support Volunteer](csvcharge.md) or the event
+    organizer or staff person. For all Code4Lib-affiliated events, these parties
+    must be clearly listed on a publicly-accessible website such as the
+    conference website, [in this Code of Conduct repository](css_volunteers.md),
+    or [the wiki](http://wiki.code4lib.org/index.php/Main_Page).
+    If you can't find any of these, there will be other staff
     available to help if the situation calls for immediate action.
 
+    The primary way to reach a Community Support Volunteer online is to email
+    the c4lcommunitysupport@googlegroups.com address. Messages sent here are
+    visible to all Community Support Volunteers and are kept private. You may
+    use a throwaway email address if you want to ensure anonymity.
+
     If you are in the #code4lib IRC, the zoia command to list people
-    designated as channel helpers is @helpers . There is at least one helper
-    in the channel at most times.
+    designated as channel helpers is `@helpers`. There is at least one helper
+    in the channel at most times. Helpers may not be Community Support
+    Volunteers but know how to direct you to them.
 
-    If you are in the code4lib Slack, contact one of the admins. You can find this list by clicking the the "⋮" button
-    in the top right and then selecting "Workspace Directory." You can filter the list to show only Admins by using the
-    select list.
-
-    If you are on the [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), you're in a free-for-all for public messages; however,
-    the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/).  In addition, there are [Community Support Volunteers](css_volunteers.md) whom you may want to involve.
+    If you are in the code4lib Slack, you may reach a volunteer by including
+    either the phrase `c4lcsv` or `c4lcss` in a message posted to a public
+    channel, such as `#general` or `#code4libcon`. You may also private message
+    a known member of the Community Support Squad—their names and Slack handles
+    will be posted on the aforementioned publicly-accessible website(s).
 
 3. Wider community response to Incident:
 
@@ -113,13 +121,12 @@ certain time period)
 * banning the harasser from any (or all) Code4Lib channels
 * publishing an account of the harassment
 
+
 Code4Lib event organizers can be identified by their name badges, and will
 help participants contact hotel/venue security or local law enforcement,
 provide escorts, or otherwise assist those experiencing harassment to feel
 safe for the duration of the event. Code4Lib IRC volunteers can be identified
 by issuing the `@helpers` command to the #code4lib bot named "zoia".
-
-
 
 In the case of organized events, those responsible for the event should have readily available the following information:
 
@@ -129,9 +136,6 @@ In the case of organized events, those responsible for the event should have rea
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
 * **Community Support Volunteers:** including the [PHONE NUMBER]
-* **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
-`/msg zoia helpers #code4lib`
-
 
 
 We expect participants to follow these rules at all conference venues,
