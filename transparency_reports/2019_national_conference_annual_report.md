@@ -32,7 +32,7 @@ incidents, and come to consensus on responses.
    disturbed by the all-gender restroom signage, and suggested they seek out a
    gender-specific restroom.
 3. Comments made publicly about one of the conference speakers on Slack and
-   Twitter become unwelcoming.
+   Twitter became unwelcoming.
 4. A report was taken regarding a microaggression experience by an attendee. An
    announcement was made from the podium the next morning reminding attendees to
    model desired behavior in the community. The statement was intended to
