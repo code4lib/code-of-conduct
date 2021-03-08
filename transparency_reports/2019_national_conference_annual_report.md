@@ -33,7 +33,7 @@ incidents, and come to consensus on responses.
    gender-specific restroom.
 3. Comments made publicly about one of the conference speakers on Slack and
    Twitter became unwelcoming.
-4. A report was taken regarding a microaggression experience by an attendee. An
+4. A report was taken regarding a microaggression experienced by an attendee. An
    announcement was made from the podium the next morning reminding attendees to
    model desired behavior in the community. The statement was intended to
    address this report as well as the incident described in #3.
