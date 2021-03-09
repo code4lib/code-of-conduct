@@ -61,12 +61,14 @@ contact; and unwelcome sexual attention.
     
     If you are in the #code4lib IRC channel, the zoia command to list people
     designated as channel helpers is `@helpers`. There is at least one helper
-    in the channel at most times.
+    in the channel at most times. Helpers may not be Community Support
+    Volunteers but should know how to direct you to them.
 
-    If you are in the code4lib Slack, contact one of the admins. You can find 
-    this list by clicking the the "⋮" button in the top right and then 
-    selecting "Workspace Directory." You can filter the list to show only Admins 
-    by using the select list.
+    If you are in the code4lib Slack, you may reach a volunteer by including
+    either the phrase `c4lcsv` or `c4lcss` in a message posted to a public
+    channel, such as `#general` or `#code4libcon`. You may also private message
+    a known member of the Community Support Squad; their names and Slack handles
+    will be posted on the aforementioned publicly-accessible website(s).
 
     If you are on the [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), you're 
     in a free-for-all for public messages; however, the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/). 
