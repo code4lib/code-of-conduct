@@ -48,10 +48,17 @@ contact; and unwelcome sexual attention.
 
     If you are at a conference or other community event,
     find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
-    staff person, who should be listed [on the wiki](http://wiki.code4lib.org/index.php/Main_Page).
-    If you can't find either of these people, there will be other staff
+    staff person, who should be listed on a publicly-accessible website such as the
+    conference website, [in the Community Support Squad volunteers list](css_volunteers.md),
+    or [on the Code4Lib wiki](http://wiki.code4lib.org/index.php/Main_Page)..
+    If you can't find either any such people, there will be other staff
     available to help if the situation calls for immediate action.
 
+    The primary way to reach a Community Support Volunteer online is to email
+    the `c4lcommunitysupport@googlegroups.com` address. Messages sent to the CSV list are
+    visible to all Community Support Volunteers and are kept private. You may
+    use a throw-away email address if you want to ensure anonymity.
+    
     If you are in the #code4lib IRC channel, the zoia command to list people
     designated as channel helpers is `@helpers`. There is at least one helper
     in the channel at most times.
