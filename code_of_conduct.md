@@ -30,8 +30,8 @@ contact; and unwelcome sexual attention.
     or have any other concerns, __and you feel comfortable speaking with
     the offender__, please inform the offender that they have affected you 
     negatively. The offending behavior may be unintentional, and the
-    offender and offended will resolve the incident by having that initial
-    discussion.
+    offender and offended may resolve the incident by having that initial
+    discussion themselves.
 
     Code4Lib understands that there are many reasons speaking directly to
     the offender may not be workable for you (including but not limited to
