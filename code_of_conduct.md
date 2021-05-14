@@ -13,10 +13,10 @@ for any event venue, including talks, or any community channel such as the
 chatroom or mailing list.
 
 Harassment is understood as any behavior that threatens or demeans another
-person or group, or that produces an unsafe environment.  It includes 
+person or group, or that produces an unsafe environment.  It includes, but is not limited to,
 offensive verbal comments or non-verbal expressions related to gender, gender
 identity, gender expression, sexual orientation, disability, physical 
-appearance, body size, race, age, religious or political beliefs; sexual, 
+appearance, body size, race, ethnicity, age, religious or political beliefs; sexual, 
 sexualized, or discriminatory images in public (including online) spaces; 
 deliberate intimidation, stalking, or following; harassing photography or 
 recording; sustained disruption of talks or other events; inappropriate physical
