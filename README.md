@@ -1,7 +1,7 @@
 Code4lib Anti-Harassment Policy
 ===============================
 
-This is a repository to provide a space to draft and allow for dialog in the creation of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference, mailing list, and other Code4Lib channels.
+This is repository is a space for dialog in the maintenance of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference, mailing list, and other Code4Lib channels.
 
 Resources for policies/starting points:
 
@@ -10,21 +10,17 @@ Resources for policies/starting points:
 * [how to hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
 * [MoreThanMen.org Harassment policy examples for conferences ](http://www.morethanmen.org/harassment-policies/)
 * [CAUT Anti-harassment and Non-Discrimination Statement](http://www.caut.ca/about-us/caut-policy/lists/administrative-procedures-and-guidelines/caut-anti-harassment-statement)
-* [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
+* [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole.
 
 ## Code of Code4Lib Conduct
 
-The [Code of Code4Lib Conduct](code_of_conduct.md) is an evolving document that applies not only to the annual Code4Lib conference, but also to the other ways we interact, including the[Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), irc, and other Code4Lib venues, such as the Slack and Discord channels. 
+The [Code of Code4Lib Conduct](code_of_conduct.md) is an evolving document that applies not only to the annual Code4Lib conference, but also to the other ways we interact, including the[Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), [irc](https://code4lib.org/irc/), and other Code4Lib venues, such as the Slack and Discord channels.
 
-As we learn and grow, we welcome suggestions for changes.
-
-
-You can make these suggestions in one of the following ways:
+As we learn and grow, we welcome suggestions for changes. You can [follow our change procedures](https://github.com/code4lib/code-of-conduct/blob/main/how_changes_are_made.md) to make suggestions in one of the following ways:
 
 * If you are familiar with **git** and **GitHub**, you can fork this repository, make your changes, and submit a Pull Request.  See <a href="#contribute">"Contribute"</a>, below.
 * You may create a new issue: [https://github.com/code4lib/code-of-conduct/issues/new](<https://github.com/code4lib/antiharassment-policy/issues/new>)
 * You can send an email to one or more of the people identified as members of the [Community Support Squad](css_volunteers.md).
-
 
 ## License
 
@@ -32,7 +28,7 @@ You can make these suggestions in one of the following ways:
 
 ## Discuss
 
-Discussion is welcome on the [Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB). [TBD: on Slack? on Discord? on irc?]
+Discussion is welcome here in the repository's [issues](https://github.com/code4lib/code-of-conduct/issues) or the other major Code4Lib channels: the [Code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), [irc](https://code4lib.org/irc/), [Slack](https://code4lib.slack.com/), and Discord.
 
 ## Contribute
 
