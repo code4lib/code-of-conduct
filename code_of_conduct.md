@@ -50,7 +50,7 @@ contact; and unwelcome sexual attention.
     find the on-call [Community Support Volunteer](csvcharge.md) or the event organizer or
     staff person, who should be listed on a publicly-accessible website such as the
     conference website, [in the Community Support Squad volunteers list](css_volunteers.md),
-    or [on the Code4Lib wiki](http://wiki.code4lib.org/index.php/Main_Page)..
+    or [on the Code4Lib wiki](http://wiki.code4lib.org/index.php/Main_Page).
     If you can't find either any such people, there will be other staff
     available to help if the situation calls for immediate action.
 
