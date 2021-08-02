@@ -78,7 +78,10 @@ contact; and unwelcome sexual attention.
     listed under roles. On the desktop Discord client you can see a list of
     those in this role in the upper right corner.
 
-    The [code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) is maintained by [Eric Lease Morgan](http://www3.nd.edu/~emorgan/). Our [Community Support Volunteers](css_volunteers.md) monitor its messages and may be contacted [via email](mailto:c4lcommunitysupport@googlegroups.com).
+    The [code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) is
+    maintained by [Eric Lease Morgan](http://www3.nd.edu/~emorgan/). Our
+    [Community Support Volunteers](css_volunteers.md) monitor its messages and
+    may be contacted [via email](mailto:c4lcommunitysupport@googlegroups.com).
 
 3. Wider community response to Incident:
 
