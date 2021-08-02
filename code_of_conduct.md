@@ -8,17 +8,17 @@ Short link: <http://bit.ly/coc4lib>
 Code4Lib seeks to provide a welcoming, professionally engaging, fun, and
 safe conference (and ongoing community) experience for everyone. We do not
 tolerate harassment in any form. Discriminatory language and imagery,
-including sexual or sexualized language and imagery, is not appropriate 
+including sexual or sexualized language and imagery, is not appropriate
 for any event venue, including talks, or any community channel such as the
 chatroom or mailing list.
 
 Harassment is understood as any behavior that threatens or demeans another
 person or group, or that produces an unsafe environment.  It includes, but is not limited to,
 offensive verbal comments or non-verbal expressions related to gender, gender
-identity, gender expression, sexual orientation, disability, physical 
-appearance, body size, race, ethnicity, age, religious or political beliefs; sexual, 
-sexualized, or discriminatory images in public (including online) spaces; 
-deliberate intimidation, stalking, or following; harassing photography or 
+identity, gender expression, sexual orientation, disability, physical
+appearance, body size, race, ethnicity, age, religious or political beliefs; sexual,
+sexualized, or discriminatory images in public (including online) spaces;
+deliberate intimidation, stalking, or following; harassing photography or
 recording; sustained disruption of talks or other events; inappropriate physical
 contact; and unwelcome sexual attention.
 
@@ -28,7 +28,7 @@ contact; and unwelcome sexual attention.
 
     If you are being harassed, notice that someone else is being harassed,
     or have any other concerns, __and you feel comfortable speaking with
-    the offender__, please inform the offender that they have affected you 
+    the offender__, please inform the offender that they have affected you
     negatively. The offending behavior may be unintentional, and the
     offender and offended may resolve the incident by having that initial
     discussion themselves.
@@ -58,7 +58,7 @@ contact; and unwelcome sexual attention.
     the `c4lcommunitysupport@googlegroups.com` address. Messages sent to the CSV list are
     visible to all Community Support Volunteers and are kept private. You may
     use a throw-away email address if you want to ensure anonymity.
-    
+
     If you are in the #code4lib IRC channel, the zoia command to list people
     designated as channel helpers is `@helpers`. There is at least one helper
     in the channel at most times. Helpers may not be Community Support
@@ -69,26 +69,23 @@ contact; and unwelcome sexual attention.
     channel, such as `#general` or `#code4libcon`. You may also private message
     a known member of the Community Support Squad; their names and Slack handles
     will be posted on the aforementioned publicly-accessible website(s).
-    
+
     If you are in the code4lib Discord server, contact anyone who is assigned
     the `@community_support_volunteers` role. Those who are designated that role
     will have a green highlighted user name. For those who may not be able to see
     the color, you will know if someone is a community support volunteer by
     clicking on their name/profile and `@community_support_volunteers` will be
-    listed under roles. On the desktop Discord client you can see a list of 
-    those in this role in the upper right corner. 
+    listed under roles. On the desktop Discord client you can see a list of
+    those in this role in the upper right corner.
 
-    If you are on the [listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB), you're 
-    in a free-for-all for public messages; however, the listserv does have a maintainer, [Eric Lease Morgan](http://www3.nd.edu/~emorgan/). 
-    In addition, there are [Community Support Volunteers](css_volunteers.md) whom you 
-    are welcome to involve.
+    The [code4lib listserv](https://lists.clir.org/cgi-bin/wa?A0=CODE4LIB) is maintained by [Eric Lease Morgan](http://www3.nd.edu/~emorgan/). Our [Community Support Volunteers](css_volunteers.md) monitor its messages and may be contacted [via email](mailto:c4lcommunitysupport@googlegroups.com).
 
 3. Wider community response to Incident:
 
     If the incident doesn't pass the first step (discussion reveals offense
-    was unintentional, apologies offered and accepted, public note or 
-    community is informed of resolution), then there's not much the community 
-    can do at this point since the incident was resolved without outside 
+    was unintentional, apologies offered and accepted, public note or
+    community is informed of resolution), then there's not much the community
+    can do at this point since the incident was resolved without outside
     intervention.
 
     If incident results in corrective action, the community should support
@@ -105,7 +102,7 @@ contact; and unwelcome sexual attention.
     People will argue that a particular decision was unfair, and others will
     say that it didn't go far enough. We wouldn't dream of asking people to
     stop people sharing their opinions, but we can steer discussions toward
-    civil, constructive dialogue that leads to something tangible (e.g., 
+    civil, constructive dialogue that leads to something tangible (e.g.,
     affirmation of decision, change to the CoC, modification of the decision).
 
 ## Sanctions
@@ -118,7 +115,7 @@ a chatroom, Slack workspace, or mailing list.
 
 Specific sanctions may include but are not limited to:
 
-* warning the offender to cease their behavior, letting them know that 
+* warning the offender to cease their behavior, letting them know that
 further reports will result in other sanctions
 * requiring the offender to avoid any interaction with, or physical
 proximity to, the victim for the remainder of the event
@@ -126,7 +123,7 @@ proximity to, the victim for the remainder of the event
 * refusing to publish video and/or slides of a talk
 * barring a speaker from giving (further) talks at the event
 * immediately ending any event volunteer responsibilities and privileges the
-offender holds, including requiring that the offender not be allowed to 
+offender holds, including requiring that the offender not be allowed to
 volunteer for future Code4lib events (either indefinitely or for a specified time period)
 * requiring that the offender immediately leave an event and not return
 * banning the offender from future events (either indefinitely or for a
@@ -151,7 +148,7 @@ In the case of organized events, those responsible for the event should make rea
 `/msg zoia helpers #code4lib`
 
 We expect participants to follow these rules at all conference venues,
-conference-related social events, community gatherings, and online 
+conference-related social events, community gatherings, and online
 communication channels.
 
 We value everyone's participation in the Code4Lib community, and will all
