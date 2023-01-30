@@ -59,7 +59,7 @@ contact; and unwelcome sexual attention.
     visible to all Community Support Volunteers and are kept private. You may
     use a throw-away email address if you want to ensure anonymity.
 
-    If you are in the #code4lib slack channel, the people
+    If you are in the #code4lib IRC channel, the people
     designated as channel helpers is `@css`. There is at least one helper
     in the channel at most times. Helpers may not be Community Support
     Volunteers but know how to direct you to them.
