@@ -59,8 +59,8 @@ contact; and unwelcome sexual attention.
     visible to all Community Support Volunteers and are kept private. You may
     use a throw-away email address if you want to ensure anonymity.
 
-    If you are in the #code4lib IRC channel, the zoia command to list people
-    designated as channel helpers is `@helpers`. There is at least one helper
+    If you are in the #code4lib IRC channel, the people
+    designated as channel helpers is `@css`. There is at least one helper
     in the channel at most times. Helpers may not be Community Support
     Volunteers but know how to direct you to them.
 
@@ -147,8 +147,7 @@ In the case of organized events, those responsible for the event should make rea
 * **[LOCAL SEXUAL ASSAULT/CRISIS LINE]:** [PHONE NUMBER]
 * **[TAXI COMPANY NAME]:** [PHONE NUMBER]
 * **Community Support Volunteers:** including the [PHONE NUMBER]
-* **Code4lib IRC volunteers:** `@helpers` in #code4lib, or
-`/msg zoia helpers #code4lib`
+* **Code4lib Slack volunteers:** `@css` in any channel
 
 We expect participants to follow these rules at all conference venues,
 conference-related social events, community gatherings, and online
