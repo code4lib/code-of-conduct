@@ -1,0 +1,23 @@
+# Code4Lib 2023 Community Support Squad Transparency Report
+
+## Summary
+
+The Community Support Squad (CSS) were mobilized throughout the conference to respond to violations of the Code4Lib Code of Conduct and address any other related issues. Soojeong Herring, Eric Phetteplace, and Anne Slaughter were coordinators. Ann Marie Mesco, Bobbi Fox, Andromeda Yelton, Francis Kayiwa, Bess Sadler, Carolyn Cole, Sharon Clapp, Michael Giarlo, and Kevin Reiss served as Community Support Volunteers (CSVs) in online and in-person capacities. Esmé Cowles was the Local Planning Committee (LPC) Liaison to the CSS and a CSV. CSVs were provided with background reading before the conference, and an online training session was held prior to the Princeton conference.
+
+There were at least two CSVs on duty in person during all official conference proceedings, including the reception and game night, and during every shift there was an additional online-only CSV dedicated to monitoring online activity. CSVs were identified by black-and-white striped lanyards and stationed in the back of the main room. CSVs were made available to take reports in person and via web form. We used a private Slack channel to coordinate logistics, discuss issues, and come to consensus on responses.
+
+### Incidents and Responses
+
+1. Prior to the conference, a registered attendee reached out to the coordinators about whether another individual from whom they’d previously experienced unwanted contact was registered to attend the conference. It was determined that coordinators may confidentially obtain and verify attendance information in response to safety concerns, while minimizing any opportunities for abuse of this information. Additionally, a code phrase was developed to share individually with any attendees expressing similar concerns, to be used in the event of an issue as a discreet way to alert nearby CSVs and activate appropriate bystander interventions or other supportive tactics. CSS procedures have been updated to reflect these decisions for future implementation as needed.
+2. Shortly after the 2023 conference, the Community Support Squad received a report about an individual’s behavior during the 2022 conference in Buffalo. In front of a few people, they used a racist slur about another attendee. Coordinators sent the individual a direct message with a warning that such behavior is a violation of the Code of Conduct and unacceptable in any circumstance. Coordinators will also reach out to the 2024 Scholarship Committee, once established, to recommend that the individual not be allowed to serve as a buddy for scholarship recipients at future conferences because of this unwelcoming behavior. Existing documentation and procedures will ensure this information is shared appropriately in future years.
+
+### Recommendations
+
+1. In the past, CSVs assigned to online shifts were asked to actively monitor Slack and Twitter, with the option of additional platforms with a Code4Lib presence like Mastodon or Discord. Due to very low volume of backchannel discussions outside of Slack, and the difficulty of monitoring all possible discussions across many disparate platforms, the CSS recommends focusing online monitoring on Slack. Procedural documentation has been updated accordingly.
+2. Regarding the conference stream and related procedures, the CSS has two recommendations:
+    1. YouTube comments were initially turned on for the 2023 conference stream, and were turned off upon request from the CSS after this was noticed. The CSS agreed that ongoing practice should remain consistent with the 2019 decision to turn off YouTube commenting ability after inflammatory comments were posted, and has updated procedural documentation and reached out to the Streaming Committee to this effect.
+    2. After a lightning talk in which sensitive personal information was revealed, the speaker opted to have their talk removed from the recording that would be posted on YouTube. The CSS recommends that the Streaming Committee establish a means by which speakers can opt to have their talks edited out of recordings in a similar fashion.
+3. Regarding the occasional inclusion of content that is appropriate to the presentation topic but could be harmful to attendees and viewers, the CSS recommends that the Program Committee draft guidance and possible template language for presenters in the handling of such content and the use of content warnings.
+4. 2023 was the first year in which Concentra assisted with CSV recruitment and scheduling, and the CSS recommends continuing with this distribution of responsibilities.
+
+Submitted by Soojeong Herring, Eric Phetteplace, and Anne Slaughter
