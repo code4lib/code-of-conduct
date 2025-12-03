@@ -8,11 +8,13 @@ This is a repository to provide a space to draft and allow for dialog in the cre
 * Many example statements: [Post-election Statements and Messages that Reaffirm Diversity](http://www.bohyunkim.net/blog/archives/3620)
 
 ### From Libraries 
+
 * [University of Oregon Libraries](https://web.archive.org/web/20170901161018/https://library.uoregon.edu/sites/default/files/open_letter_diversity_equity_response_2016_2.pdf)
 * [Northwestern University Libraries](https://www.linkedin.com/pulse/affirming-library-values-sarah-pritchard)
 * [James Madison University Libraries](https://www.lib.jmu.edu/statement-on-jmu-libraries-as-safe-spaces/)
 
 ### From Library Associations
+
 * [LITA](http://www.ala.org/news/member-news/2016/11/solidarity-words-solidarity-action)
 * [ARL](http://www.arl.org/news/arl-news/4154-research-libraries-and-archives-stand-committed-to-diversity-inclusion-equity-social-justice)
 * [ALA](https://americanlibrariesmagazine.org/blogs/the-scoop/statement-libraries-association-diversity-inclusion/)
@@ -20,6 +22,7 @@ This is a repository to provide a space to draft and allow for dialog in the cre
 * [DLF](https://www.diglib.org/archives/12979/)
 
 ### From Higher Ed
+
 * [University of California](https://www.universityofcalifornia.edu/press-room/university-california-statement-election)
 * [University of Nevada, Reno](http://www.unr.edu/president/communications/2016-11-10-election)
 * [University of Michigan](http://president.umich.edu/news-communications/letters-to-the-community/2016-election-message/)
@@ -27,12 +30,13 @@ This is a repository to provide a space to draft and allow for dialog in the cre
 * [CUNY](http://www1.cuny.edu/mu/forum/2016/11/10/statement-from-chancellor-james-b-milliken-on-the-presidential-election/)
 
 ### From IT Associations
+
 * ???
 
 ### From Other Organizations
+
 * [ACLU](https://www.aclu.org/news/aclu-statement-donald-trumps-election)
-* [Joint Statement from California Legislative Leaders on Result of Presidential Election](
-https://web.archive.org/web/20170117223701/http://sd24.senate.ca.gov/news/2016-11-09-joint-statement-california-legislative-leaders-result-presidential-election)
+* [Joint Statement from California Legislative Leaders on Result of Presidential Election](https://web.archive.org/web/20170117223701/http://sd24.senate.ca.gov/news/2016-11-09-joint-statement-california-legislative-leaders-result-presidential-election)
 * [Black Lives Matter](https://mic.com/articles/159496/exclusive-black-lives-matter-issues-a-statement-on-trump-s-election#.qcQGBdRR1)
 
 ## Open questions
