@@ -5,7 +5,7 @@ This is a repository to provide a space to draft and allow for dialog in the cre
 
 ## Resources for starting points:
 
-* Many example statements: [Post-election Statements and Messages that Reaffirm Diversity] (http://www.bohyunkim.net/blog/archives/3620)
+* Many example statements: [Post-election Statements and Messages that Reaffirm Diversity](http://www.bohyunkim.net/blog/archives/3620)
 
 ### From Libraries 
 * [University of Oregon Libraries](https://web.archive.org/web/20170901161018/https://library.uoregon.edu/sites/default/files/open_letter_diversity_equity_response_2016_2.pdf)
